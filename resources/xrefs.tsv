@@ -840,3 +840,4 @@ mesh	C410340	calpain activator	activator	protein	fplx	CAPN	CAPN
 mesh	C017867	epidermal growth inhibitors	inhibitor	protein	hgnc	3229	EGF
 mesh	C053635	factor XIIa inhibitor	inhibitor	protein	hgnc	3530	F12
 mesh	C046147	interleukin 2 inhibitor	inhibitor	protein	hgnc	6001	IL2
+mesh	C029131	pyruvate dehydrogenase	activator	protein	fplx	PDH	PDH
