@@ -823,18 +823,20 @@ mesh	D065690	Cytochrome P-450 CYP2D6 Inhibitors	inhibitor	protein	hgnc	2625	CYP2
 mesh	D065691	Cytochrome P-450 CYP2E1 Inhibitors	inhibitor	protein	hgnc	2631	CYP2E1
 mesh	D065692	Cytochrome P-450 CYP3A Inhibitors	inhibitor	protein	hgnc	2635	CYP3A
 mesh	D065607	Cytochrome P-450 Enzyme Inhibitors	inhibitor	protein family	hgnc.genefamily	862	Cytochrome P450s
+mesh	D065130	Endothelin A Receptor Antagonists	antagonist	protein	hgnc	3179 	EDNRA
+mesh	D065130	Endothelin B Receptor Antagonists	antagonist	protein	hgnc	3180 	EDNRB
+mesh	D058785	GABA-A Receptor Agonists	agonist	protein	fplx	GABR_type_a	GABR_type_a
+mesh	D058787	GABA-A Receptor Antagonists	antagonist	protein	fplx	GABR_type_a	GABR_type_a
+mesh	D058786	GABA-B Receptor Agonists	agonist	protein	fplx	GABR_type_a	GABR_type_b
+mesh	D058788	GABA-B Receptor Antagonists	antagonist	protein	fplx	GABR_type_a	GABR_type_b
 mesh	D000075242	Janus Kinase Inhibitors	inhibitor	protein family	hgnc.genefamily	1459	Jak family tyrosine kinases
 mesh	D061965	Matrix Metalloproteinase Inhibitors	inhibitor	protein family	fplx	MMP	MMP
 mesh	D061965	Matrix Metalloproteinase Inhibitors	inhibitor	protein family	hgnc.genefamily	891	M10 matrix metallopeptidases
 mesh	D000068796	Orexin Receptor Antagonists	antagonist	protein family	hgnc.genefamily	228	Hypocretin receptors
-mesh	C053635	factor XIIa inhibitor	inhibitor	protein	hgnc	3530	F12
-mesh	C046147	interleukin 2 inhibitor	inhibitor	protein	hgnc	6001	IL2
 mesh	D059004	Topoisomerase I Inhibitors	inhibitor	protein	hgnc	11986	TOP1
 mesh	D059005	Topoisomerase II Inhibitors	inhibitor	protein	hgnc	11989	TOP2A
 mesh	D059005	Topoisomerase II Inhibitors	inhibitor	protein	hgnc	11990	TOP2B
-mesh	D065130 Endothelin A Receptor Antagonists	antagonist	protein	hgnc	3179 	EDNRA
-mesh	D065130 Endothelin B Receptor Antagonists	antagonist	protein	hgnc	3180 	EDNRB
-mesh	D058785 GABA-A Receptor Agonists		agonist protein family	fplx	GABR_type_a	GABR_type_a
-mesh	D058787 GABA-A Receptor Antagonists	 antagonist protein family	fplx	GABR_type_a	GABR_type_a
-mesh	D058786 GABA-B Receptor Agonists		agonist protein family	fplx	GABR_type_a	GABR_type_b
-mesh	D058788 GABA-B Receptor Antagonists	 antagonist protein family	fplx	GABR_type_a	GABR_type_b
+mesh	C410340	calpain activator	activator	protein	fplx	CAPN	CAPN
+mesh	C017867	epidermal growth inhibitors	inhibitor	protein	hgnc	3229	EGF
+mesh	C053635	factor XIIa inhibitor	inhibitor	protein	hgnc	3530	F12
+mesh	C046147	interleukin 2 inhibitor	inhibitor	protein	hgnc	6001	IL2
