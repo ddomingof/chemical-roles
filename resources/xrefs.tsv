@@ -833,4 +833,8 @@ mesh	D059004	Topoisomerase I Inhibitors	inhibitor	protein	hgnc	11986	TOP1
 mesh	D059005	Topoisomerase II Inhibitors	inhibitor	protein	hgnc	11989	TOP2A
 mesh	D059005	Topoisomerase II Inhibitors	inhibitor	protein	hgnc	11990	TOP2B
 mesh	D065130 Endothelin A Receptor Antagonists	antagonist	protein	hgnc	3179 	EDNRA
-mesh	D065130 Endothelin A Receptor Antagonists	antagonist	protein	hgnc	3180 	EDNRB
+mesh	D065130 Endothelin B Receptor Antagonists	antagonist	protein	hgnc	3180 	EDNRB
+mesh	D058785 GABA-A Receptor Agonists		agonist protein family	fplx	GABR_type_a	GABR_type_a
+mesh	D058787 GABA-A Receptor Antagonists	 antagonist protein family	fplx	GABR_type_a	GABR_type_a
+mesh	D058786 GABA-B Receptor Agonists		agonist protein family	fplx	GABR_type_a	GABR_type_b
+mesh	D058788 GABA-B Receptor Antagonists	 antagonist protein family	fplx	GABR_type_a	GABR_type_b
